@@ -8,46 +8,21 @@
 
 
 
-// Little Q&A
+// INFOS
 
 
 
 
 
 
-// what is this?
+// this is a bunch behaviors ( and maybe few sprite i made )
 
 
 
 
 
 
-// obv rotmg behaviors
-
-
-
-
-
-
-// needed!
-
-
-
-
-
-// if you want to use the behaviors be sure to credit me!
-
-
-
-
-
-// they behaviors free to use
-
-
-
-
-
-// its most unused to trashed behaviors
+// credits oes to: me ( @oeti ) and ( @Mike for little help )
 
 
 
